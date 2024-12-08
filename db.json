@@ -1,0 +1,638 @@
+{
+  "products": [
+    {
+      "id": "3acb",
+      "mainOptions": [
+        {
+          "name": "ببب",
+          "startDate": "1409/09/09",
+          "endDate": "1409/10/09",
+          "subOptions": [
+            {
+              "name": "خخخخ",
+              "startDate": "1409/09/09",
+              "endDate": "1409/10/09",
+              "subSubOptions": [
+                {
+                  "name": "للل",
+                  "startDate": "1409/09/09",
+                  "endDate": "1409/10/09"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "createdAt": "2024-12-02"
+    },
+    {
+      "id": "0882",
+      "mainOptions": [
+        {
+          "name": "qqq",
+          "startDate": "1403/05/01",
+          "endDate": "1403/10/30",
+          "subOptions": [
+            {
+              "name": "www",
+              "startDate": "1403/08/01",
+              "endDate": "1403/08/30",
+              "subSubOptions": [
+                {
+                  "name": "eee",
+                  "startDate": "1403/08/15",
+                  "endDate": "1403/08/30"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "New",
+              "subSubOptions": [],
+              "startDate": "1403/09/01",
+              "endDate": "1403/09/30"
+            },
+            {
+              "id": 3,
+              "name": "زیرگزینه 3",
+              "startDate": "1403/09/15",
+              "endDate": "1403/10/16",
+              "subSubOptions": []
+            }
+          ]
+        }
+      ],
+      "createdAt": "2024-12-04"
+    },
+    {
+      "id": "8472",
+      "mainOptions": [
+        {
+          "name": "A1",
+          "startDate": "1403/06/01",
+          "endDate": "1403/10/09",
+          "subOptions": [
+            {
+              "name": "B1",
+              "startDate": "1403/07/01",
+              "endDate": "1403/09/23",
+              "subSubOptions": [
+                {
+                  "name": "C1",
+                  "startDate": "1403/09/01",
+                  "endDate": "1403/09/30"
+                }
+              ]
+            },
+            {
+              "name": "B2",
+              "startDate": "1403/08/09",
+              "endDate": "1403/09/20",
+              "subSubOptions": []
+            }
+          ]
+        }
+      ],
+      "createdAt": "2024-12-06"
+    }
+  ],
+  "memory": [
+    {
+      "productId": "0882",
+      "mainOptions": [
+        {
+          "name": "qqq",
+          "startDate": "1403/05/01",
+          "endDate": "1403/10/30",
+          "weekPercentages": [
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            }
+          ],
+          "subOptions": [
+            {
+              "name": "www",
+              "startDate": "1403/08/01",
+              "endDate": "1403/08/30",
+              "weekPercentages": [
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                }
+              ],
+              "subSubOptions": [
+                {
+                  "name": "eee",
+                  "startDate": "1403/08/15",
+                  "endDate": "1403/08/30",
+                  "weekPercentages": [
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 7
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "totalPercentage": "2",
+      "id": "1"
+    },
+    {
+      "productId": "3acb",
+      "mainOptions": [
+        {
+          "name": "آپشن اصلی ۱",
+          "startDate": "1403/01/01",
+          "endDate": "1403/03/31",
+          "weekPercentages": [
+            {
+              "percentage": 3
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            }
+          ],
+          "subOptions": [
+            {
+              "name": "آپشن فرعی ۱-۱",
+              "startDate": "1403/01/15",
+              "endDate": "1403/02/15",
+              "weekPercentages": [
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 8
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 91
+                }
+              ],
+              "subSubOptions": [
+                {
+                  "name": "آپشن فرعی-فرعی ۱-۱-۱",
+                  "startDate": "1403/01/20",
+                  "endDate": "1403/02/01",
+                  "weekPercentages": [
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "آپشن فرعی-فرعی ۱-۱-۲",
+                  "startDate": "1403/02/10",
+                  "endDate": "1403/02/20",
+                  "weekPercentages": [
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "آپشن فرعی ۱-۲",
+              "startDate": "1403/03/01",
+              "endDate": "1403/03/15",
+              "weekPercentages": [
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                }
+              ],
+              "subSubOptions": [
+                {
+                  "name": "آپشن فرعی-فرعی ۱-۲-۱",
+                  "startDate": "1403/03/05",
+                  "endDate": "1403/03/10",
+                  "weekPercentages": [
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "آپشن اصلی ۲",
+          "startDate": "1403/02/01",
+          "endDate": "1403/04/01",
+          "weekPercentages": [
+            {
+              "percentage": 3
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            }
+          ],
+          "subOptions": [
+            {
+              "name": "آپشن فرعی ۲-۱",
+              "startDate": "1403/02/10",
+              "endDate": "1403/03/10",
+              "weekPercentages": [
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 8
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 91
+                }
+              ],
+              "subSubOptions": []
+            }
+          ]
+        }
+      ],
+      "totalPercentage": "34",
+      "id": "9315"
+    },
+    {
+      "id": "a374",
+      "productId": "8472",
+      "mainOptions": [
+        {
+          "name": "A1",
+          "startDate": "1403/06/01",
+          "endDate": "1403/10/09",
+          "weekPercentages": [
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            },
+            {
+              "percentage": 0
+            }
+          ],
+          "subOptions": [
+            {
+              "name": "B1",
+              "startDate": "1403/07/01",
+              "endDate": "1403/09/23",
+              "weekPercentages": [
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                }
+              ],
+              "subSubOptions": [
+                {
+                  "name": "C1",
+                  "startDate": "1403/09/01",
+                  "endDate": "1403/09/30",
+                  "weekPercentages": [
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 45
+                    },
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    },
+                    {
+                      "percentage": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "B2",
+              "startDate": "1403/08/09",
+              "endDate": "1403/09/20",
+              "weekPercentages": [
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 8
+                },
+                {
+                  "percentage": 0
+                },
+                {
+                  "percentage": 0
+                }
+              ],
+              "subSubOptions": []
+            }
+          ]
+        }
+      ],
+      "totalPercentage": "18"
+    }
+  ]
+}
